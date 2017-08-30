@@ -64,6 +64,13 @@ public class Principal extends AppCompatActivity {
             cant.setError(resources.getString(R.string.mensaje_error_1));
             return false;
         }
+
+        if(Integer.parseInt(cant.getText().toString()) <= 0) {
+            cant.setError(resources.getString(R.string.mensaje_error_1));
+            return false;
+        }
+
+
         if(se==0) {
             Toast.makeText(this, resources.getString(R.string.mensaje_error_2), Toast.LENGTH_SHORT ).show();
             return false;
