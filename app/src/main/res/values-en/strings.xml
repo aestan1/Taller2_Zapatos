@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller2_Zapatos</string>
+    <string name="calcular">Calculate</string>
+    <string name="cantidad">Quantity</string>
+    <string name="clasico">Classic</string>
+    <string name="hombre">Man</string>
+    <string name="limpiar">Clean</string>
+    <string name="mensaje_error_1">You must buy at least one product</string>
+    <string name="mensaje_error_2">" You must choose the footwear by gender"</string>
+    <string name="mensaje_error_3">You must choose the footwear by gender</string>
+    <string name="mensaje_error_4">You must choose the brand of footwear</string>
+    <string name="mujer">Woman</string>
+    <string name="precioTotal">Total price:</string>
+    <string name="precioUnitario">Unit Price:</string>
+    <string name="adidas">Adidas</string>
+    <string name="nike">Nike</string>
+    <string name="puma">Puma</string>
+    <string name="seleccione1">" Footwear gender ..."</string>
+    <string name="seleccione2">" Type of footwear ..."</string>
+    <string name="seleccione3">Footwear brand ...</string>
+    <string name="titulo">ZXY SPORT</string>
+    <string name="zapatilla">Shoe</string>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Taller2_Zapatos</string>
+    <string name="titulo">ZXY SPORT</string>
+    <string name="precioUnitario">Precio Unitario:</string>
+    <string name="precioTotal">Precio Total:</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="calcular">Calcular</string>
+
+
+
+    <string-array name="sexo">
+        <item>@string/seleccione1</item>
+        <item>@string/hombre</item>
+        <item>@string/mujer</item>
+    </string-array>
+    <string-array name="tipo">
+        <item>@string/seleccione2</item>
+        <item>@string/zapatilla</item>
+        <item>@string/clasico</item>
+    </string-array>
+    <string-array name="marca">
+        <item>@string/seleccione3</item>
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+    </string-array>
+
+
+    <string name="seleccione1">Genero de calzado...</string>
+    <string name="seleccione2">Tipo de calzado...</string>
+    <string name="seleccione3">Marca del calzado...</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="zapatilla">Zapatilla</string>
+    <string name="clasico">Clásico</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string name="mensaje_error_1">Debe comprar por lo menos un producto</string>
+    <string name="mensaje_error_2">Debe elegir el calzado por genero</string>
+    <string name="mensaje_error_3">Debe elegir el tipo de calzado</string>
+    <string name="mensaje_error_4">Debe elegir la marca del calzado</string>
+</resources>
