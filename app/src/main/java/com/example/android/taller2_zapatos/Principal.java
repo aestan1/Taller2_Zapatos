@@ -94,9 +94,6 @@ public class Principal extends AppCompatActivity {
             se = sexo.getSelectedItemPosition();
             ti = tipo.getSelectedItemPosition();
             ma = marca.getSelectedItemPosition();
-
-
-
             can = Integer.parseInt(cant.getText().toString());
 
 
